@@ -76,7 +76,7 @@ Follow these steps to download and run the programs on your computer or laptop:
 3. Choose one of the following options:
   - **Clone via HTTPS:** Copy the link and run the following command in your terminal:
      ```bash
-     git clone https://github.com/danish-farhan07/c-programs
+     git clone https://github.com/danish-farhan07/c-programs.git
      ```
    - **Download ZIP:** Select **Download ZIP**, extract it to your desired folder.
 
