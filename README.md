@@ -18,49 +18,49 @@ This repository contains a collection of small C programs designed to demonstrat
 ## 1. Display Variables
 This program demonstrates how to declare and display the values of two variables, an integer (`a`) and a float (`b`).
 
-[View Source Code](Program 1)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program1.c)
 
 ---
 
 ## 2. Global and Local Variables
 This program demonstrates the difference between global and local variables by displaying the values of a global variable (`guar`) and a local variable (`luar`).
 
-[View Source Code](Program 2)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program2.c)
 
 ---
 
 ## 3. Input and Display Numbers
 This program takes two integer inputs from the user and displays their values.
 
-[View Source Code](Program 3)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program3.c)
 
 ---
 
 ## 4. Input and Display Date of Birth
 This program takes the user's date of birth in the format `dd-mm-yyyy` and displays it.
 
-[View Source Code](Program 4)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program4.c)
 
 ---
 
 ## 5. Using Global Variables and Functions
 This program demonstrates the use of a global variable (`guar`) and calls a function (`first`) to display values.
 
-[View Source Code](Program 5)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program5.c)
 
 ---
 
 ## 6. Find the Largest of Two Numbers
 This program takes two integer inputs and determines which number is larger. If the numbers are equal, it informs the user.
 
-[View Source Code](Program 6)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program6.c)
 
 ---
 
 ## 7. Find the Largest of Three Numbers
 This program takes three integer inputs and determines the largest among them.
 
-[View Source Code](Program 7)
+[View Source Code](https://github.com/danish-farhan07/c-programs/blob/main/program7.c)
 
 ---
 
