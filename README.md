@@ -3,6 +3,23 @@
 This repository contains a collection of small C programs designed to demonstrate basic programming concepts. Each program is self-contained and easy to understand, making it perfect for beginners or as a reference for learning C programming.
 
 ---
+## About the Repository
+
+This repository contains a curated set of small C programs, ranging from basic examples to practical problem-solving scenarios. It is perfect for:
+- Beginners learning C programming.
+- Students revising core concepts.
+- Developers looking for reference implementations of simple algorithms.
+
+---
+
+## Key Features
+- 🖥️ **Language**: C Programming  
+- 📚 **Includes**: Variable handling, conditional logic, input/output, and more.  
+- 💻 **Tools**: Compatible with GCC, Turbo C++, Dev-C++, and VS Code.  
+- 🎯 **Purpose**: Learn, explore, and understand fundamental concepts in C programming.  
+- 🔗 **Easy to Use**: Download, compile, and run with step-by-step instructions.
+
+---
 
 ## Table of Contents
 1. [Program 1: Display Variables](#program-1-display-variables)
