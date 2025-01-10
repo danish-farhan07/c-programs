@@ -5,7 +5,6 @@ This repository contains a collection of small C programs designed to demonstrat
 ---
 
 ## Table of Contents
-
 1. [Program 1: Display Variables](#program-1-display-variables)
 2. [Program 2: Global and Local Variables](#program-2-global-and-local-variables)
 3. [Program 3: Input and Display Numbers](#program-3-input-and-display-numbers)
@@ -112,7 +111,7 @@ Ensure you have a C compiler and a code editor installed. Here are some options:
 ### **Step 3: Navigate to the Repository Folder**
 Use the terminal, command prompt, or file explorer to navigate to the folder where you saved the repository:
 ```bash
-cd c-programs
+cd c-programs-main
 ````
 ## License
 
