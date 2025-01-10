@@ -1,4 +1,4 @@
-# C Small Projects Repository
+# C Projects Repository
 
 This repository contains a collection of small C programs designed to demonstrate basic programming concepts. Each program is self-contained and easy to understand, making it perfect for beginners or as a reference for learning C programming.
 
@@ -67,7 +67,7 @@ This program takes three integer inputs and determines the largest among them.
 ## How to Download and Run
 
 ### Step 1: Download the Repository
-1. Visit the GitHub repository page: [C Small Projects Repository](https://github.com/yourusername/C-Small-Projects).
+1. Visit the GitHub repository page: [C Projects Repository](https://github.com/danish-farhan07/c-programs/).
 2. Click the green **Code** button and select one of the following options:
   - **Clone via HTTPS:** Copy the link and run:
     ```bash
