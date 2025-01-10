@@ -5,16 +5,18 @@ This repository contains a collection of small C programs designed to demonstrat
 ---
 
 ## Table of Contents
-1. [Programs and Descriptions](#programs-and-descriptions)
-   - [Program 1: Display Variables](#program-1-display-variables)
-   - [Program 2: Global and Local Variables](#program-2-global-and-local-variables)
-   - [Program 3: Input and Display Numbers](#program-3-input-and-display-numbers)
-   - [Program 4: Input and Display Date of Birth](#program-4-input-and-display-date-of-birth)
-   - [Program 5: Using Global Variables and Functions](#program-5-using-global-variables-and-functions)
-   - [Program 6: Find the Largest of Two Numbers](#program-6-find-the-largest-of-two-numbers)
-   - [Program 7: Find the Largest of Three Numbers](#program-7-find-the-largest-of-three-numbers)
-2. [How to Download and Run](#how-to-download-and-run)
-3. [License](#license)
+
+1. [Program 1: Display Variables](#program-1-display-variables)
+2. [Program 2: Global and Local Variables](#program-2-global-and-local-variables)
+3. [Program 3: Input and Display Numbers](#program-3-input-and-display-numbers)
+4. [Program 4: Input and Display Date of Birth](#program-4-input-and-display-date-of-birth)
+5. [Program 5: Using Global Variables and Functions](#program-5-using-global-variables-and-functions)
+6. [Program 6: Find the Largest of Two Numbers](#program-6-find-the-largest-of-two-numbers)
+7. [Program 7: Find the Largest of Three Numbers](#program-7-find-the-largest-of-three-numbers)
+
+---
+   - [How to Download and Run](#how-to-download-and-run)
+   - [License](#license)
 ---
 
 ## Program 1: Display Variables
