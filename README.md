@@ -71,12 +71,12 @@ This program takes three integer inputs and determines the largest among them.
 Follow these steps to download and run the programs on your computer or laptop:
 
 ### **Step 1: Download the Repository**
-1. Visit the GitHub repository page: [C Projects Repository](https://github.com/danish-farhan07/c-programs/).
+1. Visit the GitHub repository page: [C Projects Repository](https://github.com/danish-farhan07/c-programs).
 2. Click on the green **Code** button.
 3. Choose one of the following options:
   - **Clone via HTTPS:** Copy the link and run the following command in your terminal:
      ```bash
-     git clone https://github.com/yourusername/C-Small-Projects.git
+     git clone https://github.com/danish-farhan07/c-programs
      ```
    - **Download ZIP:** Select **Download ZIP**, extract it to your desired folder.
 
@@ -108,7 +108,7 @@ Ensure you have a C compiler and a code editor installed. Here are some options:
 ### **Step 3: Navigate to the Repository Folder**
 Use the terminal, command prompt, or file explorer to navigate to the folder where you saved the repository:
 ```bash
-cd C-Small-Projects
+cd c-programs
 ````
 ## License
 
