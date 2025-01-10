@@ -64,29 +64,52 @@ This program takes three integer inputs and determines the largest among them.
 
 ---
 
+
+
 ## How to Download and Run
 
-### Step 1: Download the Repository
+Follow these steps to download and run the programs on your computer or laptop:
+
+### **Step 1: Download the Repository**
 1. Visit the GitHub repository page: [C Projects Repository](https://github.com/danish-farhan07/c-programs/).
-2. Click the green **Code** button and select one of the following options:
-  - **Clone via HTTPS:** Copy the link and run:
-    ```bash
-    git clone https://github.com/yourusername/C-Small-Projects.git
-    ```
-   - **Download ZIP:** Download the ZIP file and extract it to your preferred folder.
+2. Click on the green **Code** button.
+3. Choose one of the following options:
+  - **Clone via HTTPS:** Copy the link and run the following command in your terminal:
+     ```bash
+     git clone https://github.com/yourusername/C-Small-Projects.git
+     ```
+   - **Download ZIP:** Select **Download ZIP**, extract it to your desired folder.
 
-### Step 2: Set Up a Compiler
-Ensure you have a C compiler installed (e.g., GCC). Install it based on your operating system:
-- **Linux**: `sudo apt install gcc`
-- **macOS**: `brew install gcc`
-- **Windows**: Use [MinGW](https://sourceforge.net/projects/mingw/) or enable WSL.
-
-### Step 3: Compile and Run
-1. Navigate to the program's directory:
-   ```bash
-   cd C-Small-Projects
 ---
 
+### **Step 2: Set Up Your Environment**
+Ensure you have a C compiler and a code editor installed. Here are some options:
+
+#### **Code Editors**:
+- **Turbo C++**: An older IDE for C/C++ programming.  
+  - Download: [Turbo C++](https://www.turboc.net/)
+  - Note: Some newer systems may not support Turbo C++ natively.
+  
+- **Dev-C++**: A lightweight, beginner-friendly IDE.  
+  - Download: [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+  
+- **Visual Studio Code (VS Code)**: A modern editor with extensions for C programming.  
+  - Download: [VS Code](https://code.visualstudio.com/)
+  - Requires GCC or MinGW as the compiler.
+
+#### **C Compilers**:
+- **GCC** (GNU Compiler Collection): A widely-used open-source compiler.  
+  - Install on Linux: `sudo apt install gcc`
+  - Install on macOS: Use `brew install gcc` (requires Homebrew)
+  - Install on Windows: Use [MinGW](https://sourceforge.net/projects/mingw/) or enable WSL.
+
+---
+
+### **Step 3: Navigate to the Repository Folder**
+Use the terminal, command prompt, or file explorer to navigate to the folder where you saved the repository:
+```bash
+cd C-Small-Projects
+````
 ## License
 
 This repository is licensed under the MIT License. You are free to use, modify, and distribute this code, provided the following conditions are met:
@@ -106,3 +129,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
