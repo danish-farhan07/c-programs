@@ -20,6 +20,24 @@ This repository contains a curated set of small C programs, ranging from basic e
 - 🔗 **Easy to Use**: Download, compile, and run with step-by-step instructions.
 
 ---
+# Mid-Semester Syllabus PDF - C Programming  
+
+## 📌 Key Topics Covered  
+
+1. **C Basics** – Introduction, structure, and syntax of a C program.  
+2. **Data Types** – int, float, char, double, and their usage.  
+3. **Operators** – Arithmetic, relational, logical, bitwise, assignment, and conditional.  
+4. **Logical Statements** – if, if-else, nested if-else, switch-case.  
+5. **Loops** – for, while, do-while, and nested loops.  
+6. **Flowchart** – Visual representation of algorithms using standard symbols.  
+7. **Algorithm** – Step-by-step problem-solving approach before coding.  
+
+## 📝 Notes  
+- Understand basic syntax and structure.  
+- Focus on problem-solving techniques using flowcharts and algorithms.  
+- Practice writing simple C programs for each topic.  
+
+---
 
 ## Table of Contents
 1. [Program 1: Display Variables](#program-1-display-variables)
@@ -132,7 +150,8 @@ cd c-programs-main
 ````
 ## License
 
-This repository is licensed under the MIT License. You are free to use, modify, and distribute this code, provided the following conditions are met:
+This repository is licensed under the MIT License. You are free to use, modify, 
+and distribute this code, provided the following conditions are met:
 
 1. The original copyright notice is retained in all copies.
 2. The code is provided "as is," without warranty of any kind.
@@ -144,9 +163,24 @@ MIT License
 
 Copyright (c) 2024 Danish Farhan
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to the
+following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+````
+
+🚀 **Happy Coding!**  
 
