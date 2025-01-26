@@ -20,9 +20,9 @@ This repository contains a curated set of small C programs, ranging from basic e
 - 🔗 **Easy to Use**: Download, compile, and run with step-by-step instructions.
 
 ---
-# Mid-Semester Syllabus PDF - C Programming  
 
-## 📌 Key Topics Covered  
+## Mid-Semester Syllabus PDF - C Programming 
+##📌Key Topics Covered  
 
 1. **C Basics** – Introduction, structure, and syntax of a C program.  
 2. **Data Types** – int, float, char, double, and their usage.  
